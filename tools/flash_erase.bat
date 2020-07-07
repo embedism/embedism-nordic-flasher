@@ -1,0 +1,2 @@
+nrfjprog.exe --recover
+pause
